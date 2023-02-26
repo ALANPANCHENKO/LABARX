@@ -1,4 +1,4 @@
-#include "libmain/mySimpleComputer.h"
+#include "mySimpleComputer.h"
 
 
 
